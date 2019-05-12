@@ -1,0 +1,94 @@
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\bin\Debug\RomeCity.exe.config
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\bin\Debug\RomeCity.exe
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\bin\Debug\RomeCity.pdb
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\bin\Debug\MaterialDesignColors.dll
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity.csprojAssemblyReference.cache
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\MainWindow.g.cs
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\App.g.cs
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity_MarkupCompile.cache
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity_MarkupCompile.lref
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\MainWindow.baml
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity.g.resources
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity.Properties.Resources.resources
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity.csproj.GenerateResource.cache
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity.csproj.CoreCompileInputs.cache
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity.csproj.CopyComplete
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity.exe
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\RomeCity.pdb
+C:\Users\tchak\Desktop\Blender CG\C#\RomeCity\RomeCity\obj\Debug\App.baml
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\bin\Debug\RomeCity.exe.config
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\bin\Debug\RomeCity.exe
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\bin\Debug\RomeCity.pdb
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\bin\Debug\MaterialDesignColors.dll
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\MainWindow.g.cs
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\App.g.cs
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\RomeCity_MarkupCompile.cache
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\RomeCity_MarkupCompile.lref
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\App.baml
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\MainWindow.baml
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\RomeCity.g.resources
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\RomeCity.Properties.Resources.resources
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\RomeCity.csproj.GenerateResource.Cache
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\RomeCity.csproj.CoreCompileInputs.cache
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\RomeCity.exe
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\RomeCity.pdb
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\RomeCity.csprojResolveAssemblyReference.cache
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\test.g.cs
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\test.baml
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\PageTest.g.cs
+C:\Users\SorelleLove\Desktop\RomeCity\RomeCity\obj\Debug\PageTest.baml
+D:\Galatasaray\RomeCity\bin\Debug\RomeCity.exe.config
+D:\Galatasaray\RomeCity\bin\Debug\RomeCity.exe
+D:\Galatasaray\RomeCity\bin\Debug\RomeCity.pdb
+D:\Galatasaray\RomeCity\bin\Debug\MaterialDesignColors.dll
+D:\Galatasaray\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Galatasaray\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Galatasaray\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Galatasaray\RomeCity\obj\Debug\RomeCity.csprojResolveAssemblyReference.cache
+D:\Galatasaray\RomeCity\obj\Debug\MainWindow.g.cs
+D:\Galatasaray\RomeCity\obj\Debug\PageTest.g.cs
+D:\Galatasaray\RomeCity\obj\Debug\test.g.cs
+D:\Galatasaray\RomeCity\obj\Debug\App.g.cs
+D:\Galatasaray\RomeCity\obj\Debug\RomeCity_MarkupCompile.cache
+D:\Galatasaray\RomeCity\obj\Debug\RomeCity_MarkupCompile.lref
+D:\Galatasaray\RomeCity\obj\Debug\App.baml
+D:\Galatasaray\RomeCity\obj\Debug\MainWindow.baml
+D:\Galatasaray\RomeCity\obj\Debug\PageTest.baml
+D:\Galatasaray\RomeCity\obj\Debug\test.baml
+D:\Galatasaray\RomeCity\obj\Debug\RomeCity.g.resources
+D:\Galatasaray\RomeCity\obj\Debug\RomeCity.Properties.Resources.resources
+D:\Galatasaray\RomeCity\obj\Debug\RomeCity.csproj.GenerateResource.Cache
+D:\Galatasaray\RomeCity\obj\Debug\RomeCity.csproj.CoreCompileInputs.cache
+D:\Galatasaray\RomeCity\obj\Debug\RomeCity.exe
+D:\Galatasaray\RomeCity\obj\Debug\RomeCity.pdb
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\bin\Debug\RomeCity.exe.config
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\bin\Debug\RomeCity.exe
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\bin\Debug\RomeCity.pdb
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\bin\Debug\MaterialDesignColors.dll
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity.csprojAssemblyReference.cache
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\MainWindow.g.cs
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\PageTest.g.cs
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\test.g.cs
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\App.g.cs
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.cache
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity_MarkupCompile.lref
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\App.baml
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\MainWindow.baml
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\PageTest.baml
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\test.baml
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity.g.resources
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity.Properties.Resources.resources
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.GenerateResource.cache
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.CoreCompileInputs.cache
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity.csproj.CopyComplete
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity.exe
+C:\Users\tchak\Desktop\ROMECITI\RomeCity\obj\Debug\RomeCity.pdb
